@@ -38,12 +38,11 @@ AOS destroller
                 ╦ ╦╔═╗╦  ╔═╗
                 ╠═╣║╣ ║  ╠═╝
                 ╩ ╩╚═╝╩═╝╩  
-                ${prefix}nuke      Elimina todos los canales
-                ${prefix}banall    Banea a todos losmiembros de forma lenta
-                ${prefix}fastban   Banea a todos los miemros 3 veces mas rapido
-                ${prefix}raid       Crea canales
-                ${prefix}spam  Hace 200+ pings
-                ${prefix}purge     Hace purge
+          ${prefix}nuke      Elimina todos los canales
+          ${prefix}banall    Banea a todos los miembros
+          ${prefix}raid       Crea canales
+          ${prefix}spam  Hace 200+ pings
+          ${prefix}purge     Hace purge
         `.italic.bold)
     })
 
