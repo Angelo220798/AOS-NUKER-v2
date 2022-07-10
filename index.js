@@ -53,6 +53,7 @@ AOS destroller
           ${prefix}spam  Hace 200+ pings
           ${prefix}purge     Hace purge
           ${prefix}deleteroles Elimina todos los roles
+          ${prefix}auto   Elimina y crea canales nuevos ES BETA
         `.italic.bold)
     })
 
