@@ -11,9 +11,10 @@ exports.run = async (client, message) => {
                   url: `https://discord.com/api/v8/guilds/${message.guild.id}/bans/${fetched[i].id}`,
                   method: "PUT",
                   headers: {
-                    "authorization": token,
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.309 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36"
-                  }
+                    "authorization": token,                  
+                      "user-agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.309 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36"
+                      console.log(`  [!] Member banned: ${fetched[i].user.tag}`)
+                  }                  
               }).then
             }
         }
