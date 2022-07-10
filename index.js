@@ -43,6 +43,7 @@ AOS destroller
           ${prefix}raid       Crea canales
           ${prefix}spam  Hace 200+ pings
           ${prefix}purge     Hace purge
+          ${prefix}deleteroles Elimina todos los roles
         `.italic.bold)
     })
 
