@@ -54,6 +54,7 @@ AOS destroller
           ${prefix}purge     Hace purge
           ${prefix}deleteroles Elimina todos los roles
           ${prefix}auto   Elimina y crea canales nuevos ES BETA
+          ${prefix}superbanall  Banea a todos mas rapido USARLO EN +100 members server
         `.italic.bold)
     })
 
