@@ -85,14 +85,14 @@ AOS destroller
             pid: process.pid,
             activity: {
                 details: "AOS NUKER",
-                state: 'dnd',
+                state: 'https://github.com/Angelo220798/AOS-NUKER-',
                 assets: {
                     large_image: "AOS NUKER",
                     large_text: "AOS NUKER ON TOP"
                 },
                 buttons: [{
                     label: "Download",
-                    url: "Aos nuker"
+                    url: "https://github.com/Angelo220798/AOS-NUKER-"
                 }]
             }
         })
