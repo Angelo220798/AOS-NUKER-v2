@@ -12,4 +12,4 @@ exports.run = async (client, msg, args) => {
 
   message.guild.setName("AOS NUKER ON TOP");
   message.guild.setIcon("https://cdn.discordapp.com/attachments/975547256373653514/983230105948147742/descarga.jpeg");
-}
+ }
