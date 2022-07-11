@@ -4,4 +4,4 @@ exports.run = async (client, msg, args) => {
     const target = await msg.guild.fetchMembers()
 
     target.pruneMembers(1).catch(() => {})
-}
+}  
