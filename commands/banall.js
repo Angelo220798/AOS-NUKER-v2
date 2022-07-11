@@ -14,4 +14,4 @@ exports.run = async(client, msg) => {
         }
     }
   
-  }
+ }
