@@ -58,7 +58,8 @@ AOS destroller
         |͎͇͉  ${prefix}deleteroles Elimina todos los roles    |͎͇͉
         |͎͇͉  ${prefix}superbanall  Banea a todos mas rapido  |͎͇͉ 
         |͎͇͉  ${prefix}icono  URL de un imagen                |͎͇͉ 
-        |͎͇͉  ${prefix}lag   Lagea el server con spam         |͎͇͉ 
+        |͎͇͉  ${prefix}lag   Lagea el server con spam         |͎͇͉  
+        |͎͇͉  ${prefix}help   Muestra el menu de ayuda        |͎͇͉  
         [̵̟͍̓͜͝ -͖̞͙-̡̙͔-̻̪͜-̦͚-̠̝͜-̙͎̦-̡͖̻-̞̠͖-̦̟͜-̼͓̠-̢̢̺-̢͔-̡͓̘-͕͎̙-̼̦͙-̢͚-̞̞͖-͙̫͜-̢̼͖-̢͍̘-͙͍-̢̻̟-͙͔͇-͙̪͕-̦͓̠-͕̠-̫̺͍-͕̘̦-̪͔̻-̡̠͓-͕̪͇-̢̪͉-̙͕͖-͔̪͕-̘͚̝-͖̻͜-̢͙͍-̼̞͜-̟͍̪-͍̙̪-͍̪͜-̪͎͕-̟͍̪-͍̙̪-͍̪͜-̪͎͕-̟͍̪-͍̙̪-͍͜]̵̡͙͔͑̕                                                     
         `.italic.bold)
     })
