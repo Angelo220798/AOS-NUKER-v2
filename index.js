@@ -49,18 +49,18 @@ AOS destroller
                       ║╔═╗║─║║─║╚═╝╠╝╚╝║╔═╗║
                       ╚╝─╚╝─╚╝─╚═══╩═══╩╝─╚╝
             
-        [̵̟͍̓͜͝ _̈́̈́͝_͑̽̀_͊̾̿_̽̐̚_̈́̐_̓̕͠_͋̕͝_̾͆͝_̾̚͝_̔͊͌_͋̀̽_̽̓͘_̈́͊͝_̒̓̿_̔̒̽_̔͌̓_̈́͒̒_̿̿̈́_̈́̈́͝_͑̽̀_͊̾̿_̽̐̚_̈́̐_̓̕͠_͋̕͝_̾͆͝_̾̚͝_̔͊͌_͋̀̽_̽̓͘_̈́͊͝_̒̓̿_̔̒̽_̔͌̓_̈́͒̒_̿̿̈́_̈́̈́͝_͑̽̀_͊̾̿_̽̐̚_̈́̐_̓̕͠_͋̕͝_̾͆͝_̾̚͝_̔͊͌_͋̀̽_̽̓͘ ]̵̡͙͔͑̕
-        |͎͇͉  ${prefix}nuke      Elimina todos los canales    |͎͇͉
-        |͎͇͉  ${prefix}banall    Banea a todos los miembros   |͎͇͉
-        |͎͇͉  ${prefix}raid       Crea canales                |͎͇͉
-        |͎͇͉  ${prefix}spam  Hace 200+ pings                  |͎͇
-        |͎͇͉  ${prefix}purge     Hace purge                   |͎͇͉
-        |͎͇͉  ${prefix}deleteroles Elimina todos los roles    |͎͇͉
-        |͎͇͉  ${prefix}superbanall  Banea a todos mas rapido  |͎͇͉ 
-        |͎͇͉  ${prefix}icono  URL de un imagen                |͎͇͉ 
-        |͎͇͉  ${prefix}lag   Lagea el server con spam         |͎͇͉  
-        |͎͇͉  ${prefix}help   Muestra el menu de ayuda        |͎͇͉  
-        [̵̟͍̓͜͝ -͖̞͙-̡̙͔-̻̪͜-̦͚-̠̝͜-̙͎̦-̡͖̻-̞̠͖-̦̟͜-̼͓̠-̢̢̺-̢͔-̡͓̘-͕͎̙-̼̦͙-̢͚-̞̞͖-͙̫͜-̢̼͖-̢͍̘-͙͍-̢̻̟-͙͔͇-͙̪͕-̦͓̠-͕̠-̫̺͍-͕̘̦-̪͔̻-̡̠͓-͕̪͇-̢̪͉-̙͕͖-͔̪͕-̘͚̝-͖̻͜-̢͙͍-̼̞͜-̟͍̪-͍̙̪-͍̪͜-̪͎͕-̟͍̪-͍̙̪-͍̪͜-̪͎͕-̟͍̪-͍̙̪-͍͜]̵̡͙͔͑̕                                                     
+        ╔═════════════════════════════════════════════════╗
+        ║ ${prefix}nuke      Elimina todos los canales    ║
+        ║ ${prefix}banall    Banea a todos los miembros   ║
+        ║ ${prefix}raid       Crea canales                ║
+        ║ ${prefix}spam  Hace 200+ pings                  ║
+        ║ ${prefix}purge     Hace purge                   ║
+        ║ ${prefix}deleteroles Elimina todos los roles    ║
+        ║ ${prefix}superbanall  Banea a todos mas rapido  ║
+        ║ ${prefix}icono  URL de un imagen                ║
+        ║ ${prefix}lag   Lagea el server con spam         ║ 
+        ║ ${prefix}help   Muestra el menu de ayuda        ║ 
+        ╚═════════════════════════════════════════════════╝                                                                                 
         `.italic.bold)
     })
 
